@@ -19,29 +19,30 @@ Challenges archived from CSCTF 2026.
 
 | Challenge | Category | Points | Difficulty | Link |
 |---|---|---|---|---|
+| CAPTCHA the Water Plant | Forensics | 120 | Easy | [Open](forensics/captcha-the-water-plant) |
+| Flotsam | Forensics | 120 | Easy | [Open](forensics/flotsam) |
+| Last Buffer | Forensics | 120 | Easy | [Open](forensics/last-buffer) |
 | Night Clerk | Forensics | 120 | Easy | [Open](forensics/night-clerk) |
 | Operation Dawn: Relay Snapshot | Forensics | 120 | Easy | [Open](forensics/operation-dawn-relay-snapshot) |
 | Operation Dawn: The Burnt Server | Forensics | 120 | Easy | [Open](forensics/operation-dawn-the-burnt-server) |
 | Operation Dawn: The Relay Tap | Forensics | 120 | Easy | [Open](forensics/operation-dawn-the-relay-tap) |
 | Redline | Forensics | 120 | Easy | [Open](forensics/redline) |
 | Signal Reconciliation | Forensics | 120 | Easy | [Open](forensics/signal-reconciliation) |
+| The Capability Ghost | Forensics | 120 | Easy | [Open](forensics/the-capability-ghost) |
 | The Layer That Wouldn't Die | Forensics | 120 | Easy | [Open](forensics/the-layer-that-wouldnt-die) |
-| Last Buffer | Forensics | 122 | Easy | [Open](forensics/last-buffer) |
-| The Capability Ghost | Forensics | 129 | Easy | [Open](forensics/the-capability-ghost) |
-| Tone Burst | Forensics | 132 | Easy | [Open](forensics/tone-burst) |
-| Flotsam | Forensics | 140 | Easy | [Open](forensics/flotsam) |
+| Tone Burst | Forensics | 120 | Easy | [Open](forensics/tone-burst) |
+| Afterimage | Forensics | 270 | Medium | [Open](forensics/afterimage) |
 | Briefing for One | Forensics | 270 | Medium | [Open](forensics/briefing-for-one) |
 | Code Red Freight | Forensics | 270 | Medium | [Open](forensics/code-red-freight) |
 | Dawn Array | Forensics | 270 | Medium | [Open](forensics/dawn-array) |
 | Ghost in the Historian | Forensics | 270 | Medium | [Open](forensics/ghost-in-the-historian) |
 | Interlock Witness | Forensics | 270 | Medium | [Open](forensics/interlock-witness) |
+| Last Commit | Forensics | 270 | Medium | [Open](forensics/last-commit) |
 | Operation Dawn: The Medic's Phone | Forensics | 270 | Medium | [Open](forensics/operation-dawn-the-medics-phone) |
+| Polyglot Requiem | Forensics | 270 | Medium | [Open](forensics/polyglot-requiem) |
 | Silent Breaker | Forensics | 270 | Medium | [Open](forensics/silent-breaker) |
-| Polyglot Requiem | Forensics | 386 | Medium | [Open](forensics/polyglot-requiem) |
-| Last Commit | Forensics | 387 | Medium | [Open](forensics/last-commit) |
-| Afterimage | Forensics | 405 | Medium | [Open](forensics/afterimage) |
-| Shadow-Dispatch | Forensics | 611 | Hard | [Open](forensics/shadow-dispatch) |
-| Phantom Drift | Forensics | 805 | Hard | [Open](forensics/phantom-drift) |
+| Phantom Drift | Forensics | 560 | Hard | [Open](forensics/phantom-drift) |
+| Shadow-Dispatch | Forensics | 592 | Hard | [Open](forensics/shadow-dispatch) |
 
 ---
 Archived by [StrayHound](https://strayhound.team) 🐾

@@ -4,7 +4,7 @@
 |---|---|
 | **Competition** | CSCTF 2026 |
 | **Category** | Forensics |
-| **Points** | 611 |
+| **Points** | 592 |
 | **Author** | Marius Merai |
 | **Difficulty** | Hard |
 | **Solves** | 103 (at time of capture) |

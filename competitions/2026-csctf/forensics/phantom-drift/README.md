@@ -4,7 +4,7 @@
 |---|---|
 | **Competition** | CSCTF 2026 |
 | **Category** | Forensics |
-| **Points** | 805 |
+| **Points** | 560 |
 | **Author** | Dragoș Bacitea |
 | **Difficulty** | Hard |
 | **Solves** | 52 (at time of capture) |

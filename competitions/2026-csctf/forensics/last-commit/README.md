@@ -4,7 +4,7 @@
 |---|---|
 | **Competition** | CSCTF 2026 |
 | **Category** | Forensics |
-| **Points** | 387 |
+| **Points** | 270 |
 | **Author** | Chronos Security |
 | **Difficulty** | Medium |
 | **Solves** | 63 (at time of capture) |

@@ -4,7 +4,7 @@
 |---|---|
 | **Competition** | CSCTF 2026 |
 | **Category** | Forensics |
-| **Points** | 386 |
+| **Points** | 270 |
 | **Author** | Mohamed Amine Mzoughi |
 | **Difficulty** | Medium |
 | **Solves** | 64 (at time of capture) |
