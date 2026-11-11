@@ -27,7 +27,6 @@ Solutions are **not** stored with the challenges. Write-ups live on our website,
 | Year | Competition | Played | Result | Trails |
 |------|-------------|--------|--------|--------|
 | 2026 | [CSCTF 2026: Total Warfare](competitions/2026-csctf) | Nov 6-8 | 66th / 294 (Fighters) | [Enter](competitions/2026-csctf) |
-| COUNTERSIGN | Crypto | 120 | [Open](crypto/countersign) |
 
 *More hunts will be added as we go.*
 
