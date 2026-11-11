@@ -1,0 +1,1 @@
+{"service":"Vardanne Civil Continuity Service \u2014 emergency relay calendar","status":"ok","routes":["GET /brief","GET /case.ics","POST /attest"]}

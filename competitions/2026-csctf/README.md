@@ -44,5 +44,28 @@ Challenges archived from CSCTF 2026.
 | Phantom Drift | Forensics | 560 | Hard | [Open](forensics/phantom-drift) |
 | Shadow-Dispatch | Forensics | 592 | Hard | [Open](forensics/shadow-dispatch) |
 
+## ICS
+
+| Challenge | Category | Points | Difficulty | Link |
+|---|---|---|---|---|
+| Operation Blackout | ICS | 540 | Hard | [Open](ics/operation-blackout) |
+
+## Misc
+
+| Challenge | Category | Points | Difficulty | Link |
+|---|---|---|---|---|
+| Command Calendar Reconciliation | Misc | 120 | Easy | [Open](misc/command-calendar-reconciliation) |
+| Operation Dawn: The Shared Model | Misc | 120 | Easy | [Open](misc/operation-dawn-the-shared-model) |
+| Operation Dawn: Watch List Audit | Misc | 120 | Easy | [Open](misc/operation-dawn-watch-list-audit) |
+| Telltale | Misc | 120 | Easy | [Open](misc/telltale) |
+| warden | Misc | 282 | Medium | [Open](misc/warden) |
+| Operation Dawn: The Cipher Lock | Misc | 540 | Hard | [Open](misc/operation-dawn-the-cipher-lock) |
+
+## ML
+
+| Challenge | Category | Points | Difficulty | Link |
+|---|---|---|---|---|
+| Operation Dawn: The Sentry's Model | ML | 540 | Hard | [Open](ml/operation-dawn-the-sentrys-model) |
+
 ---
 Archived by [StrayHound](https://strayhound.team) 🐾
