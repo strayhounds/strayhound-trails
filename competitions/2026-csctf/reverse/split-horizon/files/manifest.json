@@ -1,0 +1,10 @@
+{
+  "mission_id": "AV-F9039F",
+  "platform": "TL-9 Vireo",
+  "operator": "Aurelian Air Surveillance Corps",
+  "approved_waypoint_lat": 46.2507,
+  "approved_waypoint_lon": 25.2582,
+  "approved_altitude": 5500,
+  "server_validation_tolerance_deg": 0.001,
+  "audit_pubkey_b64": "QJFhkrxRlAvWNd8XjiTAiHmMfWv/v9Ld1FNw47j2WIc="
+}

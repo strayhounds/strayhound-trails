@@ -1,0 +1,8 @@
+=== SIGINT summary — Aurelian Air Surveillance Corps ===
+Sortie AV-F9039F (TL-9 Vireo) reported by ground station:
+  - track diverged from the approved plan mid-sortie (~hundreds of metres)
+  - command server closed the sortie as NOMINAL, audit chain intact
+Primary evidence is the uplink capture and the drone flight-control
+software; the signed audit trail and this note are corroboration only
+(they confirm the log reads nominal and frame the incident). Determine
+the waypoint the drone actually flew.
