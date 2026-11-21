@@ -71,14 +71,27 @@ Challenges archived from CSCTF 2026.
 
 | Challenge | Category | Points | Difficulty | Link |
 |---|---|---|---|---|
-| VaultKeeper | Mobile | 120 | [Open](mobile/vaultkeeper) |
+| VaultKeeper | Mobile | 120 | Easy | [Open](mobile/vaultkeeper) |
 
 ## Pwn
 
 | Challenge | Category | Points | Difficulty | Link |
 |---|---|---|---|---|
-| Sigil       | Pwn    | 540 | [Open](pwn/sigil) |
-| Stepper     | Pwn    | 848 | [Open](pwn/stepper) |
+| Sigil | Pwn | 540 | Hard | [Open](pwn/sigil) |
+| Stepper | Pwn | 848 | Hard | [Open](pwn/stepper) |
+
+## Reverse
+
+| Challenge | Category | Points | Difficulty | Link |
+|---|---|---|---|---|
+| Command Authority | Reverse | 120 | Easy | [Open](reverse/command-authority) |
+| Ground Lock | Reverse | 120 | Easy | [Open](reverse/ground-lock) |
+| Operation Dawn: Radio Recovery | Reverse | 120 | Easy | [Open](reverse/operation-dawn-radio-recovery) |
+| PoshTerm | Reverse | 120 | Easy | [Open](reverse/poshterm) |
+| The Lock Box | Reverse | 135 | Easy | [Open](reverse/the-lock-box) |
+| Uplink Denied | Reverse | 120 | Easy | [Open](reverse/uplink-denied) |
+| Fence Shift | Reverse | 358 | Medium | [Open](reverse/fence-shift) |
+| Split Horizon | Reverse | 377 | Medium | [Open](reverse/split-horizon) |
 
 ---
 Archived by [StrayHound](https://strayhound.team) 🐾
