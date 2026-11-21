@@ -67,5 +67,18 @@ Challenges archived from CSCTF 2026.
 |---|---|---|---|---|
 | Operation Dawn: The Sentry's Model | ML | 540 | Hard | [Open](ml/operation-dawn-the-sentrys-model) |
 
+## Mobile
+
+| Challenge | Category | Points | Difficulty | Link |
+|---|---|---|---|---|
+| VaultKeeper | Mobile | 120 | [Open](mobile/vaultkeeper) |
+
+## Pwn
+
+| Challenge | Category | Points | Difficulty | Link |
+|---|---|---|---|---|
+| Sigil       | Pwn    | 540 | [Open](pwn/sigil) |
+| Stepper     | Pwn    | 848 | [Open](pwn/stepper) |
+
 ---
 Archived by [StrayHound](https://strayhound.team) 🐾
