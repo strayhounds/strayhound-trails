@@ -99,5 +99,17 @@ Challenges archived from CSCTF 2026.
 |---|---|---|---|---|
 | Carrier Shadow | Rev | 540 | Hard | [Open](rev/carrier-shadow) |
 
+## Network
+
+| Challenge | Category | Points | Difficulty | Link |
+|---|---|---|---|---|
+| Hard Landing | Network | 120 | Easy | [Open](network/hard-landing) |
+| Radar Silence | Network | 120 | Easy | [Open](network/radar-silence) |
+| Silent Orbit | Network | 120 | Easy | [Open](network/silent-orbit) |
+| Severed Link | Network | 188 | Easy | [Open](network/severed-link) |
+| Dark Anchorage Reconciliation | Network | 270 | Medium | [Open](network/dark-anchorage-reconciliation) |
+| Water Hammer Reconciliation | Network | 409 | Medium | [Open](network/water-hammer-reconciliation) |
+| Ghost Signal | Network | 825 | Hard | [Open](network/ghost-signal) |
+
 ---
 Archived by [StrayHound](https://strayhound.team) 🐾
