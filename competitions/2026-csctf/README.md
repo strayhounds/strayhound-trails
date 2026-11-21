@@ -80,7 +80,7 @@ Challenges archived from CSCTF 2026.
 | Sigil | Pwn | 540 | Hard | [Open](pwn/sigil) |
 | Stepper | Pwn | 848 | Hard | [Open](pwn/stepper) |
 
-## Reverse
+## Reverse Engineering
 
 | Challenge | Category | Points | Difficulty | Link |
 |---|---|---|---|---|
@@ -92,6 +92,12 @@ Challenges archived from CSCTF 2026.
 | Uplink Denied | Reverse | 120 | Easy | [Open](reverse/uplink-denied) |
 | Fence Shift | Reverse | 358 | Medium | [Open](reverse/fence-shift) |
 | Split Horizon | Reverse | 377 | Medium | [Open](reverse/split-horizon) |
+
+## Rev
+
+| Challenge | Category | Points | Difficulty | Link |
+|---|---|---|---|---|
+| Carrier Shadow | Rev | 540 | Hard | [Open](rev/carrier-shadow) |
 
 ---
 Archived by [StrayHound](https://strayhound.team) 🐾
